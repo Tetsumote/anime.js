@@ -1,0 +1,18 @@
+@font-face {
+    font-family: OpenSans;
+    src: url(fonts/OpenSans-Regular.ttf);
+}
+@font-face {
+    font-family: OpenSansCondensed;
+    src: url(fonts/OpenSansCondensed-Light.ttf);
+}
+body{
+    font-family: OpenSans;
+    font-size:16px;
+    line-height: 1.6;
+    margin:4em;
+}
+h1{
+    font-family: OpenSansCondensed;
+    font-size: 2.5em;
+}

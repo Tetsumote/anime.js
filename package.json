@@ -1,0 +1,25 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "anime.js exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tetsumote/anime.js.git"
+  },
+  "keywords": [
+    "anime.js"
+  ],
+  "author": "Paul Grajewski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tetsumote/anime.js/issues"
+  },
+  "homepage": "https://github.com/Tetsumote/anime.js#readme",
+  "dependencies": {
+    "animejs": "^2.2.0"
+  }
+}
